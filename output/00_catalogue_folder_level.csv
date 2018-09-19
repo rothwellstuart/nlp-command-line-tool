@@ -1,0 +1,2 @@
+named_folder,subdir,relpath,filecount,filesize,filecount_by_type,filesize_by_type,filecount_by_mimetype,filesize_by_mimetype,filecount_by_ext,filesize_by_ext
+test-data,test-data,,3,135614,"[('TEXT', 3)]","[('TEXT', 135614)]","[('text/plain', 3)]","[('text/plain', 135614)]","[('.TXT', 3)]","[('.TXT', 135614)]"
